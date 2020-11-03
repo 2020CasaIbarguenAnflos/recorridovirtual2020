@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5" apprev="17983" appversion="6.1.9">
+  <panorama id="node5">
+    <input height="6656" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" width="6656" leveltilesize="510">
+      <level height="6656" preload="0" predecode="0" width="6656"/>
+      <level height="3328" preload="0" predecode="0" width="3328"/>
+      <level height="1664" preload="0" predecode="0" width="1664"/>
+      <level height="832" preload="0" predecode="0" width="832"/>
+      <level height="416" preload="1" predecode="1" width="416"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.16" projection="4" fov="53.02" pan="23.71"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-55.1857" pan="-180" fovpixel="2"/>
+      <max tilt="55.1857" fovstereographic="270" fov="120" pan="180" fovfisheye="360"/>
+    </view>
+    <userdata source="" nodeid="node5" heading="0" title="" description="" datetime="12/09/2020 11:22" customnodeid="" longitude="" copyright="" tags="fotografías finales" latitude="" author="Luz_AnFlos" comment="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" wordwrap="1" textalpha="1" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" enabled="1" borderalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" tilt="-4.86" title="" description="" id="Point03" pan="-46.36" url="{node7}" target="78.5/-10.9/70.0"/>
+      <hotspot skinid="ht_node" tilt="-5.54" title="" description="" id="Point02" pan="-167.44" url="{node4}" target=""/>
+      <hotspot skinid="ht_image" tilt="-7.81" title="Manija del buzón" description="Detalle en bronce" id="Manija puerta" pan="-332.76" url="images/AF-16.jpg" target=""/>
+      <hotspot skinid="ht_image" tilt="0.04" title="Corredor principal" description="" id="Corredor" pan="-81.15" url="images/AF-18.jpg" target=""/>
+      <hotspot skinid="ht_image" tilt="-4.85" title="Corredor patio" description="" id="Point04" pan="-161.1" url="images/AF-9.jpg" target=""/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" tilt="0.390" nodechangekeep="0" mode="3" ambientlevel="0.000" id="Element01" pan="-337.500" level="1.000" loop="1" tiltsize="10.000" field="90.000" pansize="10.000">
+        <source url="media/bienvenida (online-audio-converter.com).mp3"/>
+      </sound>
+      <sound startmutedmobile="0" tilt="-10.610" nodechangekeep="0" mode="4" ambientlevel="0.000" id="musica ambiental" pan="-341.860" level="0.300" loop="2" tiltsize="10.000" field="90.000" pansize="10.000">
+        <source url="media/Instant Crush - Corbyn Kites.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomfov="20" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="6656" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" width="6656" leveltilesize="510">
+      <level height="6656" preload="0" predecode="0" width="6656"/>
+      <level height="3328" preload="0" predecode="0" width="3328"/>
+      <level height="1664" preload="0" predecode="0" width="1664"/>
+      <level height="832" preload="0" predecode="0" width="832"/>
+      <level height="416" preload="1" predecode="1" width="416"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-15.46" projection="4" fov="43.58" pan="-2.75"/>
+      <min tilt="-46.4921" pan="-180" fovpixel="2"/>
+      <max tilt="46.4921" fovstereographic="270" fov="120" pan="180" fovfisheye="360"/>
+    </view>
+    <userdata source="" nodeid="node4" heading="0" title="" description="" datetime="19/09/2020 13:21" customnodeid="" longitude="" copyright="" tags="vesión 2" latitude="" author="Luz_AnFlos" comment="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" wordwrap="1" textalpha="1" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" enabled="1" borderalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_info" tilt="-20" title="" description="Esta casa se caracteriza por tener tres patios. El primero era para actividades sociales, el segundo era utilizado para actividades hogareñas; es por eso que también se le conoce como “patio de servicio”.  " id="Point01" pan="-1.45" url="" target=""/>
+      <hotspot skinid="ht_image" tilt="-13.66" title="" description="" id="Point03" pan="-89.64" url="images/AF-10.jpg" target=""/>
+      <hotspot skinid="ht_info" tilt="-14.63" title="Tercer patio" description="En el tercer  patio se encontraba el establo aquí tenían las aves de corral y algún pequeño huerto. Se le llamó en su momento “patio de la Caballeriza y también Jardín de la Delicias”." id="información tercer patio" pan="-103.5" url="" target=""/>
+      <hotspot skinid="ht_node" tilt="-17.6" title="" description="" id="Point02" pan="-273.76" url="{node5}" target=""/>
+      <hotspot skinid="ht_image" tilt="-16.17" title="Manija ventanal" description="" id="Manija patio" pan="-353.72" url="images/AF-6.jpg" target=""/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" tilt="-11.250" nodechangekeep="0" mode="3" ambientlevel="0.000" id="Element01" pan="-247.820" level="1.000" loop="0" tiltsize="2.000" field="41.000" pansize="6.000">
+        <source url="media/saludo final.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" tilt="-16.410" nodechangekeep="0" mode="3" ambientlevel="0.000" id="Element02" pan="-45.260" level="1.000" loop="1" tiltsize="3.000" field="72.000" pansize="6.000">
+        <source url="media/AUDIO3.mp3"/>
+      </sound>
+      <lensflare type="3" tilt="6.880" id="Lensflare01" pan="-257.500" alpha="80.000" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomfov="20" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="6912" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" width="6912" leveltilesize="510">
+      <level height="6912" preload="0" predecode="0" width="6912"/>
+      <level height="3456" preload="0" predecode="0" width="3456"/>
+      <level height="1728" preload="0" predecode="0" width="1728"/>
+      <level height="864" preload="0" predecode="0" width="864"/>
+      <level height="432" preload="1" predecode="1" width="432"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-1.94" projection="4" fov="70" pan="4.88"/>
+      <min tilt="-55.7738" pan="-180" fovpixel="2"/>
+      <max tilt="55.7738" fovstereographic="270" fov="120" pan="180" fovfisheye="360"/>
+    </view>
+    <userdata source="" nodeid="node6" heading="0" title="" description="" datetime="19/09/2020 12:48" customnodeid="" longitude="" copyright="" tags="fotografías finales" latitude="" author="Luz_AnFlos" comment="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" wordwrap="1" textalpha="1" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" enabled="1" borderalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_image" tilt="32.32" title="Detalles de ducha" description="Grifería, imagen interior de la ducha" id="Point02" pan="-222.49" url="images/IMG_4995.JPG" target=""/>
+      <hotspot skinid="ht_image" tilt="-7.55" title="Grifería de bronce" description="" id="grifería de bronce" pan="-213.77" url="images/AF-4.jpg" target=""/>
+      <hotspot skinid="ht_image" tilt="5.99" title="Detalle de azulejos" description="" id="Point01" pan="-292.85" url="images/AF-14.jpg" target=""/>
+      <hotspot skinid="ht_info" tilt="-23.72" title="" description="La tina cuenta con hidromasaje elaborada en hierro forjado y cubiertas de porcelana con superficies limpias y puras, sin decoración más que las patas con diseño de garras de león que la sostienen. " id="Point03" pan="-251.69" url="" target=""/>
+      <hotspot skinid="ht_image" tilt="-16.72" title="Grifefía de bronce" description="" id="grifería de bronce baño " pan="-115.35" url="images/AF-12.jpg" target=""/>
+      <hotspot skinid="ht_info" tilt="6.73" title="" description="Tiene un mueble de tocador con un lavamanos y lava cabellos, su grifería es de bronce, ambos con drenado retráctil importados de parís.  " id="Point04" pan="-60.3" url="" target=""/>
+      <hotspot skinid="ht_node" tilt="-10.13" title="" description="" id="Point05" pan="-349.5" url="{node4}" target=""/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" tilt="-0.150" nodechangekeep="0" mode="3" ambientlevel="0.000" id="Element01" pan="-344.010" level="1.000" loop="1" tiltsize="10.000" field="90.000" pansize="10.000">
+        <source url="media/20200914_221509uribe.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomfov="20" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="7296" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" width="7296" leveltilesize="510">
+      <level height="7296" preload="0" predecode="0" width="7296"/>
+      <level height="3648" preload="0" predecode="0" width="3648"/>
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-6.01" projection="4" fov="70" pan="76.33"/>
+      <min tilt="-45.8519" pan="-180" fovpixel="2"/>
+      <max tilt="45.8519" fovstereographic="270" fov="120" pan="180" fovfisheye="360"/>
+    </view>
+    <userdata source="" nodeid="node7" heading="0" title="" description="" datetime="19/09/2020 12:15" customnodeid="" longitude="" copyright="" tags="fotografías finales" latitude="" author="Luz_AnFlos" comment="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" wordwrap="1" textalpha="1" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" enabled="1" borderalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" tilt="-10.14" title="" description="" id="Point01" pan="-206.82" url="{node6}" target=""/>
+      <hotspot skinid="ht_image" tilt="-13.16" title="Manija puertas Sala de Exposiciones" description="" id="Manija." pan="-125.19" url="images/AF.jpg" target=""/>
+      <hotspot skinid="ht_info" tilt="-5.48" title="Salon de Tertulias" description="En el Interior de esta casa se realizó la “Fiesta Privada de Independencia”. El acontecimiento que fue recreado en el Tríptico que actualmente se exhibe en el Museo Nacional de Historia" id="Salon de Tertulias" pan="-85.78" url="" target=""/>
+      <hotspot skinid="ht_image" tilt="-11.75" title="Detalle de ventanas" description="" id="Point02" pan="-244.82" url="images/AF-2.jpg" target=""/>
+      <hotspot skinid="ht_image" tilt="-13.9" title="Biblioteca" description="Interior de biblioteca" id="Point03" pan="-146.59" url="images/IMG_5020.JPG" target=""/>
+      <hotspot skinid="ht_image" tilt="-12.13" title="Sala de exposiciones" description="" id="sala de exposiciones" pan="-282.23" url="images/_MG_5837.JPG" target=""/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" tilt="4.160" nodechangekeep="0" mode="4" ambientlevel="0.000" id="Element01" pan="-282.760" level="1.000" loop="1" tiltsize="10.000" field="90.000" pansize="10.000">
+        <source url="media/AUDIO1.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomfov="20" enabled="1" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" nodeid="master" heading="0" title="" description="" datetime="" customnodeid="" longitude="" copyright="" tags="" latitude="" author="" comment="" info=""/>
+  </masternode>
+</tour>
